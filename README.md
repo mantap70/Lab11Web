@@ -111,7 +111,12 @@ $db->insert('users', $data);
 <br>
 
 # Tambahan
-
+## Hasil dari index artikel
+![Image](img/artikel.png)
+## Hasil dari user login
+![Image](img/login.png)
+## Hasil dari user profile
+![Image](img/profile.png)
 
 ## Kesimpulan
 Pada praktikum ini saya berhasil:
